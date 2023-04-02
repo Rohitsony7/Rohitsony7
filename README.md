@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rohitsony7
-- 👀 I’m interested in JavaScript | Angular | NodeJs | Java | HTML | CSS | DOCKER | KUB8 | RxJS
+- 👀 I’m interested in JavaScript| TypeScript | Angular | NodeJs | Java | HTML | CSS | DOCKER | KUB8 | RxJS
 - 🌱 I’m currently learning SystemDesign & Micro-Frontend Architecture 
 - 💞️ I’m looking to collaborate on Web Optimisation & Frontend 
 - 📫 How to reach me Rsony.721@gmail.com 
